@@ -1,0 +1,101 @@
+PRPR_ID,PROVIDER_NAME,CLCL_NTWK_IND,IS_VA,WMDS_SEQ_NO
+NPI5960652625,Trevino-Schaefer,I,0,
+NPI3147136659,Hines-Osborn,O,1,8017.0
+NPI5551699520,"Collins, Thomas and Smith",O,0,8017.0
+NPI5835392115,"Cummings, Hill and Vasquez",I,1,
+NPI1828779668,Moore Ltd,O,1,
+NPI4111270714,Fuentes PLC,P,0,
+NPI8329902778,"Gomez, Schmidt and Sandoval",O,1,
+NPI6788175717,Phillips and Sons,O,1,
+NPI1688669716,Brown LLC,O,0,
+NPI6871704354,Sims-Booth,I,1,
+NPI4792165664,Castillo-Lynch,O,1,
+NPI9861985372,Obrien-Fleming,O,1,
+NPI3368536195,"Kim, Clark and Mason",O,1,
+NPI2383082793,"Robinson, Bell and Sutton",I,0,8017.0
+NPI1557376230,Diaz and Sons,I,0,8017.0
+NPI3084649514,Ryan-Harris,I,0,
+NPI8120717574,"Jimenez, Keller and Douglas",O,1,8017.0
+NPI2573478551,Gould Inc,O,0,8017.0
+NPI5638379165,Rodgers Inc,O,0,
+NPI4042699946,Shaw-Schaefer,O,1,8017.0
+NPI4153795953,"Wilson, Bennett and Conner",P,0,
+NPI1417124022,Carter-Jackson,O,0,
+NPI1813726301,Brown and Sons,O,0,
+NPI7692167252,Weber-Black,O,0,
+NPI8191890793,Martinez-Martin,O,1,8017.0
+NPI6891490448,Jacobs-White,O,1,
+NPI3613115539,Smith-Johnson,O,0,
+NPI6386271785,"Ramirez, Johnson and Blake",P,1,
+NPI9590774810,Luna-Leonard,I,1,8017.0
+NPI3223115272,"Jones, Lee and Sexton",P,0,
+NPI5227941857,Santos-Hopkins,I,1,8017.0
+NPI8826879784,"Walker, Wright and Allen",O,0,8017.0
+NPI5457043482,Choi Ltd,P,0,
+NPI6433082861,Hall LLC,O,0,
+NPI2289789131,Mcbride-Cummings,O,1,
+NPI4153648273,Nunez LLC,O,1,
+NPI6037577831,"Bell, Johnson and Stephens",O,0,
+NPI9750444358,"Cooper, Hughes and Rodriguez",O,1,8017.0
+NPI4350598093,Shepard PLC,P,1,
+NPI4727306207,Johnson Ltd,I,0,
+NPI5527445083,Price-Walker,O,0,
+NPI5937408591,May LLC,O,0,
+NPI9806915522,Peters Group,O,1,
+NPI1386903346,"Simmons, Olsen and Williams",P,1,
+NPI1635708419,Allen-Larson,P,0,
+NPI9801724134,Dalton PLC,P,1,8017.0
+NPI3997331061,"Castillo, Donovan and Mendoza",I,1,
+NPI7390314766,Chapman-Bennett,O,0,
+NPI2040735415,Long-Hernandez,P,1,
+NPI3473979489,Wilson-Diaz,I,1,
+NPI6863779898,Chaney and Sons,I,1,
+NPI2309186996,Sims Ltd,P,1,
+NPI2891776000,"Evans, Hickman and Davidson",I,0,
+NPI1368570209,"Mack, Avila and Hunt",O,0,
+NPI4980273734,Hall-Snyder,P,0,
+NPI5772902637,Thompson-Duncan,P,1,8017.0
+NPI2425399664,Jensen-Riley,O,0,
+NPI8517718126,Snyder-Chan,O,1,
+NPI3870157362,"Sullivan, Vasquez and Garza",P,0,
+NPI1731517326,"Dodson, Austin and Tapia",P,0,
+NPI5522966707,"Trujillo, Farmer and Bradford",O,0,8017.0
+NPI8130076816,Buckley-Mclaughlin,I,0,
+NPI8084166930,"Smith, Lewis and Wright",I,1,8017.0
+NPI9177068228,Wong-Stanley,P,0,
+NPI9447304615,Espinoza-Vega,O,0,8017.0
+NPI7568788980,Bryant Ltd,P,1,
+NPI4197133819,Jones PLC,I,1,
+NPI2298481206,Edwards Group,O,1,8017.0
+NPI7982725037,Davis and Sons,P,0,
+NPI1968870326,"Nichols, Schmidt and Martin",P,1,
+NPI9967011296,Combs Group,P,0,
+NPI5951019935,Wallace Inc,P,1,
+NPI3328876246,Griffin Inc,I,0,
+NPI4704785815,Price-Crawford,P,0,
+NPI4938966574,Mccarthy Ltd,P,0,8017.0
+NPI6085822029,Chase-Smith,I,0,
+NPI7061280172,"Kelley, Cunningham and Johnson",P,1,
+NPI4346242886,Cox PLC,I,0,
+NPI7944732371,"Jefferson, Hartman and Jones",O,0,
+NPI5406999328,"Sutton, Garner and Weaver",I,1,
+NPI7892184524,Ellis Group,O,1,
+NPI8954835349,"Jackson, Sweeney and Ward",P,1,
+NPI1703457120,Scott-Jefferson,I,0,
+NPI2774010584,Baker Group,O,0,
+NPI1284053367,"Bell, Thompson and Perez",P,1,
+NPI9017737153,Scott Ltd,I,1,
+NPI4333816842,"Nguyen, Johnson and Hoffman",O,1,
+NPI9755342261,Hernandez-Blanchard,I,1,
+NPI5277084664,Sampson-Walters,O,1,8017.0
+NPI7690274631,Sanders-Perez,O,0,
+NPI6545573143,Wright PLC,P,1,
+NPI2981470996,Gomez Group,P,1,8017.0
+NPI4881257367,Dennis-Ross,P,1,8017.0
+NPI1486068287,"Smith, Castillo and Salazar",O,0,
+NPI7071190983,Kline-Martinez,P,0,
+NPI4847409832,Soto and Sons,P,0,
+NPI4149337748,"Wu, Hughes and Vargas",I,0,
+NPI8018287603,Mathis-Newton,I,1,
+NPI2634694666,Garcia and Sons,I,1,
+NPI1621083944,Wright Group,O,0,
