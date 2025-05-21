@@ -61,7 +61,7 @@ This project includes a Power BI dashboard to visualize recovery claims, provide
 
 📄 Full Version
 
-[Power BI Dashboard](images/Healthcare_Claims_Recovery_Dashboard.png)
+![Power BI Dashboard](images/Healthcare_Claims_Recovery_Dashboard.png)
 
 ---
 
