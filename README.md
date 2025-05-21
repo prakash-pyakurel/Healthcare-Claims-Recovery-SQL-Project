@@ -61,8 +61,7 @@ This project includes a Power BI dashboard to visualize recovery claims, provide
 
 📄 Full Version
 
-[📥 Download the full PDF Dashboard](power%20bi/Healthcare_Claims_Recovery_Dashboard_PrakashPyakurel.pdf)
-
+[📥 Download the Power BI Dashboard PDF](power_bi/Healthcare_Claims_Recovery_Dashboard_PrakashPyakurel.pdf.pdf)
 
 ---
 
